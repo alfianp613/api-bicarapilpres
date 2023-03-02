@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # ===========================
 # ===== Import Packages =====
 # ===========================
@@ -371,13 +373,6 @@ def lda():
 def main():
     sentiment()
     lda()
-    wordcloud()
-
-
-main()
-    
-
-
-
+    wordcloud()    
 
 
